@@ -9,10 +9,10 @@ def calculations():
     first = input("Enter the first number: ")
     second = input("Enter the second number: ")
 
-    print(f'Addition {first} + {second} = {int(first) + int(second)}')
-    print(f'Subtraction {first} - {second} = {int(first) - int(second)}')
-    print(f'Multiplication {first} * {second} = {int(first) * int(second)}')
-    print(f'Division {first} / {second} = {int(first) / int(second)}')
+    print(f'Addition - {first} + {second} = {int(first) + int(second)}')
+    print(f'Subtraction -  {first} - {second} = {int(first) - int(second)}')
+    print(f'Multiplication - {first} * {second} = {int(first) * int(second)}')
+    print(f'Division - {first} / {second} = {int(first) / int(second)}')
 
 def greetings():
     first = input("Enter your first name: ")
